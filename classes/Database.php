@@ -1,10 +1,10 @@
 <?php
 class Database
 {
-	private $username = "root";
-	private $password = "";
-	private $host = "localhost";
-	private $db_name = "botnet_blacknet";
+	private $username = "sql7769467";
+	private $password = "i6iaVhzrR3";
+	private $host = "sql7.freesqldatabase.com";
+	private $db_name = "sql7769467";
 	private $charset = "utf8mb4";
 	public  $salt = "Yi89TTJ3bSxIcGxyVURhIzltXTdJcGtnJVdTdjNpU3BNSF9vU1BXe1N5JkoxP00pSC50MkY2TVdCdDZuNg==";
 	public  $admin_email = "admin@localhost";
